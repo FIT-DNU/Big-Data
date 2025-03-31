@@ -21,4 +21,10 @@
 
 # Sản phẩm đã được nghiên cứu và phát triển của các nhóm sinh viên
  1. DỰ ĐOÁN XU HƯỚNG VIDEO YOUTUBE THỊNH HÀNH (113 QUỐC GIA)
- 
+    - ### [Link github: https://github.com/tatthangdz123/tatthangdz123-DU-DOAN-XU-HUONG-VIDEO-YOUTUBE-THINH-HANH-.git]
+ 2. DỰ ĐOÁN LƯU LƯỢNG GIAO THÔNG
+    - ### [Link github: https://github.com/VietHann/Du_Doan_Luu_Luong_Giao_Thong.git]
+ 3. DỰ ĐOÁN NGUY CƠ HỦY ĐẶT PHÒNG KHÁCH SẠN
+    - ### [Link github: https://github.com/nguyenthuy1602/Hotel_Booking]
+ 4. DỰ ĐOÁN XU HƯỚNG ĐẶT PHÒNG KHÁCH SẠN
+    - ### [Link github: ]
