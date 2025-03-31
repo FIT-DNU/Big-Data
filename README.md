@@ -38,7 +38,7 @@
     - ### [Link github: https://github.com/trunghieu260/du-doan-thoi-quen-chi-tieu-cua-nguoi-dung-theo-danh-muc-san-pham.git]
  9. PHÂN TÍCH HIỆU SUẤT VÀ DỰ ĐOÁN CHIẾN DỊCH MARKETING PHÙ HỢP
     - ### [Link github: https://github.com/Manh080102/marketing_campain_anlyze-predict_nhom9_cntt1602]
- 10. PHÂN TÍCH VÀ DỰ ĐOÁN Ô NHIỄM KHÔNG KHÍ Ở NEWYORK
+ 1. PHÂN TÍCH VÀ DỰ ĐOÁN Ô NHIỄM KHÔNG KHÍ Ở NEWYORK
     - ### [Link github: https://github.com/Nguyenlong2004/Gesture-air-quality-of-Newyork.git]
  1. PHÂN TÍCH XU HƯỚNG DI CHUYỂN TAXI TẠI NEWYORK
     - ### [Link github: https://github.com/duychien1310/Du-Doan-Xu-Huong-Di-Chuyen-TaXi-Tai-NewYork/blob/main/index.html]
