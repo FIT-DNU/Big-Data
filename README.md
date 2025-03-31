@@ -27,4 +27,18 @@
  3. DỰ ĐOÁN NGUY CƠ HỦY ĐẶT PHÒNG KHÁCH SẠN
     - ### [Link github: https://github.com/nguyenthuy1602/Hotel_Booking]
  4. DỰ ĐOÁN XU HƯỚNG ĐẶT PHÒNG KHÁCH SẠN
-    - ### [Link github: ]
+    - ### [Link github: https://github.com/HiepV7413/Du-Doan-Xu-Huong-Dat-Phong-Khach-San.git]
+ 5. DỰ ĐOÁN DOANH SỐ BÁN TRÒ CHƠI ĐIỆN TỬ
+    - ### [Link github: https://github.com/PhXuanDuc/Doanh-so-ban-tro-choi-dien-tu]
+ 6. DỰ ĐOÁN GIÁ BẤT ĐỘNG SẢN TẠI USA
+    - ### [Link github: https://github.com/Long9ngon-pixel/Du-Doan-Gia-Nha-Dat-O-My.git]
+ 7. DỰ ĐOÁN GIÁ BÁN XE OTO CŨ
+    - ### [Link github: https://github.com/trongnv24/Estimated_Selling_Price_Of_Used_Cars_CNTT16-02/tree/develop]
+ 8. DỰ ĐOÁN THÓI QUEN CHI TIÊU CỦA NGƯỜI TIÊU DÙNG THEO DANH MỤC SẢN PHẨM
+    - ### [Link github: https://github.com/trunghieu260/du-doan-thoi-quen-chi-tieu-cua-nguoi-dung-theo-danh-muc-san-pham.git]
+ 9. PHÂN TÍCH HIỆU SUẤT VÀ DỰ ĐOÁN CHIẾN DỊCH MARKETING PHÙ HỢP
+    - ### [Link github: https://github.com/Manh080102/marketing_campain_anlyze-predict_nhom9_cntt1602]
+ 10. PHÂN TÍCH VÀ DỰ ĐOÁN Ô NHIỄM KHÔNG KHÍ Ở NEWYORK
+    - ### [Link github: https://github.com/Nguyenlong2004/Gesture-air-quality-of-Newyork.git]
+ 1. PHÂN TÍCH XU HƯỚNG DI CHUYỂN TAXI TẠI NEWYORK
+    - ### [Link github: https://github.com/duychien1310/Du-Doan-Xu-Huong-Di-Chuyen-TaXi-Tai-NewYork/blob/main/index.html]
