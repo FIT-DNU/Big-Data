@@ -54,14 +54,17 @@
 - #### CNTT 16-03
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | ĐIỂM DANH SINH VIÊN BẰNG MÃ QR | Hoàng Mạnh Linh, Nguyễn Nam Hưng, Đào Đức Mạnh, Cao Văn Huy| [:octocat:github](https://github.com/manhlinh3011/Diem-danh-bang-ma-QRCode)|*|
-    | NHẬN DIỆN CỬ CHỈ TAY TRONG THỜI GIAN THỰC VỚI CẢM BIẾN GIA TỐC| Vũ Giang Nam, Phạm Thanh Phương, Mẫn Bá Sâm. Nguyễn Quang Tiến| [:octocat:github](https://github.com/RobiRobin555/gesture_recognition_in_real_time)|*|
-    | THEO DÕI MẬT ĐỘ XE TRONG KHU VỰC ĐỂ THAY ĐỔI THỜI GIAN TÍNH HIỆU ĐÈN GIAO THÔNG | Lê Thanh Long, Nguyễn Duy Đạt, Nguyễn Thị Lan Anh, Đậu Cao Minh Nhật| [:octocat:github](https://github.com/lanh240224/Nhom3_AIOT_CNTT1603)|
-    | NHẬN DIỆN CỬ CHỈ TAY CỦA NGƯỜI KHUYẾT TẬT | Đỗ Trọng Minh Tiến, Nguyễn Đức Ngọc, Nguyễn Ngọc Khánh, Bùi Tuấn Dương| [:octocat:github](https://github.com/nguyenducngoc2004/Nhan-dien-cu-chi-tay-cua-nguoi-khuyet-tat/tree/main)|
-    | NHẬN DIỆN CỬ CHỈ TAY TRONG THỜI GIAN THỰC VỚI CẢM BIẾN HÌNH ẢNH | Trịnh Minh Thành, Hoàng Công Sơn, Nguyễn Thị Kiều Hoa, Hoàng Thế Khải| [:octocat:github](https://github.com/Suna0011/nhan-dien-cu-chi-tay)|*|
-    | NHẬN DẠNG BIỂN SỐ XE KHI VƯỢT ĐÈN ĐỎ | Đặng Văn Khánh, Nguyễn Trường Nam, Trần Trí Duy, Lê Đức Khánh Long | [:octocat:github](https://github.com/ntnguyen03/traffic_red_light_violation_detection.git)|*|
-    | ĐẾM SỐ SINH VIÊN TRONG LỚP HỌC BẰNG CAMERA | Trần Hiếu Nghĩa, Nguyễn Hoàng Liêm, Nguyễn Minh Hiếu, Phạm Văn Duy| [:octocat:github](https://github.com/nghia5s/nhandiensinhvientronglop)||
-    | NHÀ THÔNG MINH | Nguyễn Cao Tùng, Ngô Ngọc Phú, Trần Đình Hiệp, Lò Đức Mạnh| [:octocat:github](https://github.com/Nekoh1me/iot)|
-    |VƯỜN THÔNG MINH |Nguyễn Chí Nhật, Bùi Văn Trường, Đỗ Ngọc Nghĩa, Nguyễn Thành Hưng | [:octocat:github](https://github.com/truong2004/VuoThongMinh.git)|
-    | CHUYỂN ĐỔI GIỌNG NÓI THÀNH VĂN BẢN | Nguyễn Công Uẩn, Đỗ Huy Dũng, Bùi Anh Tuấn, Lê Xuân Dương| [:octocat:github](https://github.com/CongUan04/Nhan_Dien_Giong_Noi)|
-    | NHẬN DẠNG HÀNH VI CỦA SINH VIÊN TRONG LỚP HỌC | Nguyễn Danh Phóng, Nguyễn Đức Tâm, Bùi Văn Tiến, Đặng Bùi Thanh Tùng| [:octocat:github](https://github.com/NguyenDanhPhong270604/Nhan_dang_sinhvien)|
+    | DỰ ĐOÁN GIÁ TRỊ BẤT ĐỘNG SẢN (ZILLOW ZESTIMATE) | Nguyễn Cao Tùng, Đặng Bùi Thanh Tùng, Vũ Giang Nam, Trần Đình Hiệp| [:octocat:github](https://github.com/RobiRobin555/BigDataBTL)|*|
+    | DỰ ĐOÁN XU HƯỚNG ĐẶT PHÒNG KHÁCH SẠN VỚI SPARKLR| Nguyễn Thị Lan Anh, Ngô Ngọc Phú, Đỗ Ngọc Nghĩa| [:octocat:github](https://github.com/lanh240224/BTL_BigData)|*|
+    | PHÂN TÍCH DỮ LIỆU SỨC KHỎE TOÀN CẦU | Đỗ Huy Dũng, Nguyễn Minh Hiếu, Bùi Văn Tiến, Nguyễn Đức Tâm| [:octocat:github](https://github.com/ductam2594/mo-hinh-du-doan-hieu-qua-dieu-tri)|
+    |PHÂN TÍCH VÀ DỰ BÁO GIÁ CỔ PHIẾU VỚI SPARK VÀ PROPHET | Nguyễn Đức Ngọc, Trịnh Minh Thành, Hoàng Thế Khải, Nguyễn Thị Kiều Hoa| [:octocat:github](https://github.com/Suna0011/phan-tich-du-bao-gia-co-phieu)|
+    | DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ | Đỗ Trọng Minh Tiến, Phạm Văn Duy, Đào Đức Mạnh, Nguyễn Ngọc Khánh| [:octocat:github](https://github.com/NguyenKhanh04/BTL_BIGDATA)|*|
+    | PHÂN TÍCH DỮ LIỆU NGUÒI DÙNG FACEBOOK |Bùi Tuấn Dương, Lê Xuân Dương | [:octocat:github](https://github.com/duongcutohaha/phan-tich-du-lieu-nguoi-dung-Facebook.git)|*|
+    | DỰ DOÁN XU HƯỚNG PHIM | Nguyễn Công Uẩn, Nguyễn Nam Hưng, Trần Trí Duy, Mẫn Bá Sâm| [:octocat:github](https://github.com/CongUan04/BigData_Du-Doan-Xu-Huong-Phim)||
+    | PHÂN TÍCH XU HƯỚNG BẢN ĐỒ DU LỊCH VỚI SPARK| Bùi Anh Tuấn, Trần Hiếu Nghĩa, Nguyễn Trí Nhật| [:octocat:github](https://github.com/Nekoh1me/iot)|
+    |DỰ ĐOÁN XU HƯỚNG BỆNH TIM |Bùi Văn Trường, Nguyễn Danh Phóng | [:octocat:github](https://github.com/NguyenDanhPhong270604/Big-data-XH_benh_tim)|
+    | PHÂN TÍCH DỮ LIỆU CHUYẾN DI TAXI TẠI NEWYORK| Hoàng Mạnh Linh, Đậu Cao Minh Nhật, Nguyễn Quang Tiến| [:octocat:github](https://github.com/manhlinh3011/Phan-tich-du-lieu-taxi-New-York-City.git)|
+    | PHÂN TÍCH THỜI TIẾT VỚI APACHE SPARK |Nguyễn Trường Nam, Lò Đức Mạnh, Nguyễn Hoàng Liêm, Nguyễn Thành Hưng| [:octocat:github](https://github.com/ntnguyen03/bigdata_weather_analysis)|
+    |DỰ ĐOÁN XU HƯỚNG NHIỄM COVID-19| Nguyễn Duy Đạt, Lê Thành Long| [:octocat:github](https://github.com/datn32988/bigdata)|
+    | DỰ ĐOÁN BỆNH UNG THƯ PHỔI | Lê Đức Khánh Long, Phạm Thanh Phương, Cao Văn Huy| [:octocat:github](https://github.com/longgym23/lung_cancer)|
+     | PHÂN TÍCH DOANH SỐ BÁN XE ĐẠP | Hoàng Công Sơn, Đặng Văn Khánh| [:octocat:github](https://github.com/NguyenDanhPhong270604/Nhan_dang_sinhvien)|
